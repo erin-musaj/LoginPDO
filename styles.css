@@ -1,0 +1,21 @@
+.login-field {
+    margin: 1rem 0;
+
+    label {
+        display: block;
+    }
+}
+
+button[type="submit"] {
+    display: block;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+
+    th, td {
+        border: 1px solid black;
+    }
+}
